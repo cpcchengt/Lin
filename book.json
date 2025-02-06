@@ -1,0 +1,8 @@
+{
+  "title": "My GitBook Project",
+  "author": "Your Name",
+  "description": "This is a documentation project created using GitBook.",
+  "language": "en",
+  "plugins": ["-highlight", "search-pro"],
+  "theme": "default"
+}
