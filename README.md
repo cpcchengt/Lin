@@ -1,2 +1,0 @@
-# Lin
-My blog
